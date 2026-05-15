@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fmoreno-intercom.github.io/resources-788c4n/sitemap.xml
